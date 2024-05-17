@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtNombre" type="id">txtNombre</item>
+    <item name="edtNombre" type="id">edtNombre</item>
+    <item name="txtNumeroCliente" type="id">txtNumeroCliente</item>
+    <item name="edtNumeroCliente" type="id">edtNumeroCliente</item>
+    <item name="txtProductos" type="id">txtProductos</item>
+    <item name="edtProductos" type="id">edtProductos</item>
+    <item name="txtCiudad" type="id">txtCiudad</item>
+    <item name="edtCiudad" type="id">edtCiudad</item>
+    <item name="txtDireccion" type="id">txtDireccion</item>
+    <item name="edtDireccion" type="id">edtDireccion</item>
+    <item name="btnRegistrar" type="id">btnRegistrar</item>
+</resources>
